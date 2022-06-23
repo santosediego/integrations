@@ -16,7 +16,9 @@ https://sendgrid.com/
 
 ## Como executar o projeto
 
-Pré-requisitos: Java 11
+Pré-requisitos:
+- Java 11
+- Configurar variável de ambiente SENDGRID_API_KEY com o valor da chave gerada na plataforma da SendGrid
 
 ```bash
 # clonar repositório
